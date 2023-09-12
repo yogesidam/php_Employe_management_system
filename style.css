@@ -1,0 +1,35 @@
+body{
+    background-color: darkslateblue;
+}
+.container{
+    background-color: white;
+    width: 700px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+h2{
+    font-weight: bold;
+    font-family: serif;
+    padding-top: 10px;
+}
+hr{
+    border-bottom: 1px solid darkslateblue;
+}
+.form-control{
+    margin-top: 20px;
+    border: 2px solid darkslateblue;
+    border-radius: 5px;
+}
+.form-control:hover{
+    border: 3px solid darkslateblue;
+}
+.button{
+    padding-bottom: 20px;
+}
+.btn{
+    width: 100px;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-weight: bold;
+    
+}
